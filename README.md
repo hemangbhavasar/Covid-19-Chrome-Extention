@@ -1,2 +1,2 @@
-# Covid-19-Chrome-Extention
-This is for keep updated about COVID-19 
+# Gilead Sciences News
+It is chrome extension that shows daily latest 40 headlines of Gilead
